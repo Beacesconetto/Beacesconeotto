@@ -1,7 +1,7 @@
 ## Olá, eu sou Beatriz Cesconetto, Estudante de Analise e Desenvolvemento de Sistemas!
  
 <div align="left">
-  <a href="https://github.com/Beacesconeotto">
+  <a href="https://github.com/Beacesconetto">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Beacesconeotto&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Beacesconeotto&layout=compact&langs_count=7&theme=dark"/>
 </div>
